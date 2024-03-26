@@ -1,9 +1,9 @@
 # SmartCalc_CPP
 
 
-## Part 1. Implementation of SmartCalc v2.0
+## Part 1. Implementation of SmartCalc
 
-You need to implement the SmartCalc v2.0:
+You need to implement the SmartCalc:
 
 - The program must be developed in C++ language of C++17 standard
 - The program code must be located in the src folder
@@ -50,14 +50,14 @@ You need to implement the SmartCalc v2.0:
       | Computes natural logarithm | ln(x) |
       | Computes common logarithm | log(x) |
 
-## Part 2. Bonus. Credit calculator
+## Part 2. Credit calculator
 
 Provide a special mode "credit calculator":
 - Input: total credit amount, term, interest rate, type (annuity, differentiated)
 - Output: monthly payment, overpayment on credit, total payment
 
 
-## Part 3. Bonus. Deposit calculator
+## Part 3. Deposit calculator
 
 Provide a special mode "deposit profitability calculator":
 - Input: deposit amount, deposit term, interest rate, tax rate, periodicity of payments, capitalization of interest, replenishments list, partial withdrawals list
